@@ -62,6 +62,11 @@
     .FooterLinks__List li{
         flex-basis: 48%;
         }
+    .rowTWo{
+    display: flex;
+    flex-direction: column;
+        gap: 20px;
+}
     
 }
 
